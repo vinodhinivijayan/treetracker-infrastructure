@@ -1,0 +1,6 @@
+tag1=  "treetracker-database"
+tag2= "bastion"
+droplet_name= "dev-testing"
+droplet_node= "pool-0n96zzmbs"
+ip_address1= "138.68.237.145"
+ip_address2= "10.138.214.215"
